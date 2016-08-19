@@ -1,5 +1,8 @@
 {
 .appVersion = "913";
+DisplayStrings = (
+"/Lje-cy"
+);
 classes = (
 {
 automatic = 1;
