@@ -1,5 +1,5 @@
 {
-.appVersion = "895";
+.appVersion = "913";
 classes = (
 {
 code = "a d j l q t w  y G W";
@@ -31375,7 +31375,7 @@ unicode = 00BA;
 },
 {
 glyphname = "A-cy";
-lastChange = "2016-08-19 15:23:33 +0000";
+lastChange = "2016-08-20 05:37:59 +0000";
 layers = (
 {
 background = {
@@ -31547,7 +31547,7 @@ unicode = 0411;
 },
 {
 glyphname = "Ve-cy";
-lastChange = "2016-08-19 15:23:33 +0000";
+lastChange = "2016-08-20 05:38:16 +0000";
 layers = (
 {
 background = {
@@ -31964,7 +31964,7 @@ unicode = 0414;
 },
 {
 glyphname = "Ie-cy";
-lastChange = "2016-08-19 15:23:33 +0000";
+lastChange = "2016-08-20 05:37:57 +0000";
 layers = (
 {
 background = {
@@ -33235,7 +33235,7 @@ unicode = 041C;
 },
 {
 glyphname = "En-cy";
-lastChange = "2016-08-19 15:23:33 +0000";
+lastChange = "2016-08-20 05:37:57 +0000";
 layers = (
 {
 anchors = (
@@ -33572,7 +33572,7 @@ unicode = 041F;
 },
 {
 glyphname = "Er-cy";
-lastChange = "2016-08-19 15:23:33 +0000";
+lastChange = "2016-08-20 05:37:57 +0000";
 layers = (
 {
 background = {
@@ -33741,7 +33741,7 @@ unicode = 0421;
 },
 {
 glyphname = "Te-cy";
-lastChange = "2016-08-19 15:23:33 +0000";
+lastChange = "2016-08-20 05:38:19 +0000";
 layers = (
 {
 anchors = (
